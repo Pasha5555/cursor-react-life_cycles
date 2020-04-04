@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursor-react-life_cycles/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cursor-react-life_cycles/static/js/main.a4dd8ddc.chunk.js",
+    "main.js.map": "/cursor-react-life_cycles/static/js/main.a4dd8ddc.chunk.js.map",
+    "runtime-main.js": "/cursor-react-life_cycles/static/js/runtime-main.594c4fbf.js",
+    "runtime-main.js.map": "/cursor-react-life_cycles/static/js/runtime-main.594c4fbf.js.map",
+    "static/js/2.fd79f75f.chunk.js": "/cursor-react-life_cycles/static/js/2.fd79f75f.chunk.js",
+    "static/js/2.fd79f75f.chunk.js.map": "/cursor-react-life_cycles/static/js/2.fd79f75f.chunk.js.map",
+    "index.html": "/cursor-react-life_cycles/index.html",
+    "precache-manifest.233450ee883f98d4ace5ef4bf5517630.js": "/cursor-react-life_cycles/precache-manifest.233450ee883f98d4ace5ef4bf5517630.js",
+    "service-worker.js": "/cursor-react-life_cycles/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cursor-react-life_cycles/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fd79f75f.chunk.js.LICENSE.txt": "/cursor-react-life_cycles/static/js/2.fd79f75f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cursor-react-life_cycles/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594c4fbf.js",
+    "static/js/2.fd79f75f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a4dd8ddc.chunk.js"
+  ]
+}
