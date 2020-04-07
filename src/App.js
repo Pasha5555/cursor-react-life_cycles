@@ -1,16 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Timer from './Component'
 
-function App() {
+
+
+class App extends Component{
+  
+  render(){
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hello</h1>
-        <h2>hhh</h2>
-      </header>
+      <Timer 
+      time={30} 
+      step={1} 
+      autostart={true}
+      onTick={(time) => console.log("Осталось времени: " + time)} 
+      onTimeEnd={() => console.log("Время вышло!")}
+      onTimeStart={(timeLeft) => console.log("Таймер запущен!")}
+      onTimePause={(timeLeft) => console.log("Таймер на паузе!")}
+      />
     </div>
   );
+  }
 }
 
 export default App;
